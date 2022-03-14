@@ -1,0 +1,35 @@
+/*
+  Archivo añadido por:
+  Elias Raymundo Torres
+*/
+.header-top {
+	background: #3AB4EA;
+}
+.header-top:after {
+	background: #23488C;/* color de la IE */
+}
+.header-top-right::after {
+   background: #23488C;	
+}
+.footer-bottom {
+	background: #23488C;
+}
+.courses-area.two:after {
+	background: rgba(7,71,142,0.92);
+}
+.testimonial-area:after {
+   background: rgba(7,71,142,0.9);	
+}
+.default-btn {
+	background: #3AB4EA;
+}
+.default-btn:hover {
+	color: #3AB4EA;
+	background: #fff;
+}
+.owl-nav div {
+	background: rgba(58,180,234,0.9);	
+}
+#scrollUp {
+  background: #3AB4EA;	
+}
