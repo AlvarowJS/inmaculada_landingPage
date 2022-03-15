@@ -73,18 +73,20 @@
                         </div>
                     </div>
                 </div>
+                <!-- inicio del row -->
                 <div class="row">
+                    <!-- primer servicio -->
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-course">
                             <div class="course-img">
-                                <a href="#"><img src="img/course/informatica.png" alt="course">
+                                <a href="#"><img src="img/course/capilla.png" alt="capilla">
                                     <div class="course-hover">
                                         <i class="fa fa-link"></i>
                                     </div>
                                 </a>
                             </div>
                             <div class="course-content">
-                                <h3><a href="#">INFORMATICA</a></h3>
+                                <h3><a href="#">CAPILLA</a></h3>
                                 <p>Desarrollo de Paginas Web<br>
                                 Instalación y configuración de Redes<br>
                                 Reparación de PC y Laptos<br>
@@ -96,14 +98,78 @@
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-course">
                             <div class="course-img">
-                                <a href="#"><img src="img/course/confecion.jpg" alt="course">
+                                <a href="#"><img src="img/course/auditorio.png" alt="auditorio">
                                     <div class="course-hover">
                                         <i class="fa fa-link"></i>
                                     </div>
                                 </a>
                             </div>
                             <div class="course-content">
-                                <h3><a href="course-details.html">ROPA</a></h3>
+                                <h3><a href="course-details.html">AUDITORIO</a></h3>
+                                <p>Confección de camisas y polos<br>
+                                Confección de vestidos, blusas, faldas y pantalones<br>
+                                Confección de polos y truzas deportivos<br>
+                                Confección de prendas domésticas, set de baño, cortinas, set de cocina, mandiles y otros.
+                                </p>
+                                <a class="default-btn" href="#">Leer más</a>
+                            </div>   
+                        </div>
+                    </div>
+                    <div class="col-md-4 hidden-sm col-xs-12">
+                        <div class="single-course">
+                            <div class="course-img">
+                                <a href="#"><img src="img/course/canchaDeportiva.png" alt="cancha deportiva">
+                                    <div class="course-hover">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="course-content">
+                                <h3><a href="#">CANCHA DEPORTIVA</a></h3>
+                                <p>
+                                   Deliciosas tortas y queques con sabores a chocolate, vainilla, naranja, con decoración.<br>
+                                   Bocaditos de diferentes variedades, dulces y salados para engreir el paladar. <br>
+                                   Deliciosos y suculentos potajes orientales
+                                </p>
+                                <a class="default-btn" href="#">Leer más</a>
+                            </div>   
+                        </div>
+                    </div>                    
+                </div>
+                <!-- fin del row -->
+                <!-- inicio del row -->
+                <div class="row">
+                    <!-- primer servicio -->
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div class="single-course">
+                            <div class="course-img">
+                                <a href="#"><img src="img/course/salonBelleza.png" alt="Salon de belleza">
+                                    <div class="course-hover">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="course-content">
+                                <h3><a href="#">SALÓN DE BELLEZA</a></h3>
+                                <p>Desarrollo de Paginas Web<br>
+                                Instalación y configuración de Redes<br>
+                                Reparación de PC y Laptos<br>
+                                Venta de Programas y Videotutoriales</p>
+                                <a class="default-btn" href="#">Leer más</a>
+                            </div>   
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div class="single-course">
+                            <div class="course-img">
+                                <a href="#"><img src="img/course/barberia.png" alt="barberia">
+                                    <div class="course-hover">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="course-content">
+                                <h3><a href="course-details.html">BARBERIA</a></h3>
                                 <p>Confección de camisas y polos<br>
                                 Confección de vestidos, blusas, faldas y pantalones<br>
                                 Confección de polos y truzas deportivos<br>
@@ -132,9 +198,12 @@
                                 <a class="default-btn" href="#">Leer más</a>
                             </div>   
                         </div>
-                    </div>
-
+                    </div>                    
                 </div>
+                <!-- fin del row -->
+
+
+
             </div>
         </div>
         <!-- Courses Area End -->
@@ -144,40 +213,62 @@
                 <div class="row">
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="notice-right-wrapper mb-25 pb-25">
-                            <h3>MI VIDEO</h3>
+                            <h3>DESARROLLO WEB</h3>
                             <div class="notice-video">
-                                <div class="video-icon video-hover">
-                                    <a class="video-popup" href="https://www.youtube.com/watch?v=zQta47Hu6No">
-                                        <i class="zmdi zmdi-play"></i>
-                                    </a>
+                                <div class="desarrollo-web">
+                                    <div class="video-icon video-hover">
+                                        <a class="video-popup" href="img/videos/desarrolloWeb.mp4">
+                                            <i class="zmdi zmdi-play"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div> 
-                    </div>
+                    </div>   
                     <div class="col-md-6 col-sm-6 col-xs-12">
-                        <div class="notice-left-wrapper">  
-                            <h3>mis noticias</h3>
-                            <div class="notice-left">
-                                <div class="single-notice-left mb-23 pb-20">
-                                     <h4>11, Marzo 2022</h4>
-                                    <p>MATRÍCULA ABIERTA<br>
-                                    CICLO 2022<br>
-                                    ✅Certifícate en corto tiempo.<br>
-                                    ✅Aprende y Emprende.<br>
-                                    ✅Moderna infraestructura.<br>
-                                    ✅Clases 100% practicas. <br>
-                                    ✅Inscríbete: 961361561, Informes  al link 👉<a href="https://bit.ly/38KkK87">https://bit.ly/38KkK87</a><br>
-                                    ✅Te esperamos en nuestro nuevo local:<br>
-                                    ✅Jr Gral. Prado 564 Huánuco - Perú </p>
-                                </div>
-                                <div class="single-notice-left hidden-sm mb-23 pb-20">
-                                    <h4>8, Marzo 2022 </h4>
-                                    <p>Un día como hoy 8 de marzo en 1977, fue instituido por las Naciones Unidas el día de la mujer y se celebra en todo el mundo para recordar a quienes fueron las pioneras en la demanda por la igualdad de derechos y oportunidades. El Cetpro San Luis Gonzaga les desea un feliz día de la mujer. </p>
-                                </div>
+                        <div class="notice-right-wrapper mb-25 pb-25">
+                            <h3>DISEÑO GRÁFICO</h3>
+                            <div class="notice-video">
+                                <div class="diseno-grafico">
+                                    <div class="video-icon video-hover">
+                                        <a class="video-popup" href="img/videos/disenoGrafico.mp4">
+                                            <i class="zmdi zmdi-play"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>    
-                    </div>
+                        </div> 
+                    </div>             
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <div class="notice-right-wrapper mb-25 pb-25">
+                            <h3>EDICIÓN DE VIDEOS</h3>
+                            <div class="notice-video">
+                                <div class="edicion-video">
+                                    <div class="video-icon video-hover">
+                                        <a class="video-popup" href="img/videos/edicionVideos.mp4">
+                                            <i class="zmdi zmdi-play"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> 
+                    </div>   
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <div class="notice-right-wrapper mb-25 pb-25">
+                            <h3>OFIMÁTICA EMPRESARIAL</h3>
+                            <div class="notice-video">
+                                <div class="ofimatica">
+                                    <div class="video-icon video-hover">
+                                        <a class="video-popup" href="img/videos/ofimaticaEmpresarial.mp4">
+                                            <i class="zmdi zmdi-play"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> 
+                    </div>             
                 </div>
             </div>
         </section>
