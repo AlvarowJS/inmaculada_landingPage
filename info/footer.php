@@ -23,25 +23,16 @@
                             <div class="single-widget">
                                 <h3>información</h3>
                                 <ul>
-                                    <li><a href="#">admisión</a></li>
-                                    <li><a href="#">Calendario Academico</a></li>
-                                    <li><a href="#">Lista Eventos</a></li>
-                                    <li><a href="#">Profesores</a></li>
-                                    <li><a href="#">Horario</a></li>
+                                    <li><a href="#">Inicio</a></li>
+                                    <li><a href="?view=historia">Historia</a></li>
+                                    <li><a href="?view=mision">Misión</a></li>
+                                    <li><a href="?view=vision">Visión</a></li>
+                                    <li><a href="?view=servicios">Servicios</a></li>
+                                    <li><a href="?view=contactos">Contactos</a></li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-md-2 col-sm-6 col-xs-12">
-                            <div class="single-widget">
-                                <h3>A los links</h3>
-                                <ul>
-                                   
-                                    <li><a href="?view=historia">Nosotros</a></li>
-                                    <li><a href="#">Informacion</a></li>
-                                    <li><a href="#">Más eventos</a></li>
-                                </ul>
-                            </div>
-                        </div>
+                     
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-widget">
                                 <h3>Encuentranos</h3>
@@ -57,7 +48,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12">
-                            <p>Copyright © <a href="https://www.intrasofthco.com/" target="_blank">ERT</a> <?=date('Y')?>. Todo los derechos reservados.</p>
+                            <p>Copyright © <?=date('Y')?>. Todo los derechos reservados.</p>
                         </div> 
                     </div>
                 </div>    

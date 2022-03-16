@@ -72,12 +72,14 @@ a:active, a:hover {
 }
 a,
 button,
+
 input {
     outline: medium none;
     color: #606060;
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s
 }
+
 button{border: 0}
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{color: inherit}
 label {
@@ -1226,19 +1228,9 @@ textarea {
 .video-icon a:hover i{
     color: #EC1C23;
 }
-.notice-video .desarrollo-web{
-    background: rgba(0, 0, 0, 0) url("../img/notice/desarrolloWeb.png") repeat scroll 0 0;
-}
-.notice-video .edicion-video{
-    background: rgba(0, 0, 0, 0) url("../img/notice/edicionVideo.png") repeat scroll 0 0;
-}
-.notice-video .ofimatica{
-    background: rgba(0, 0, 0, 0) url("../img/notice/ofimaticaEmpresarial.png") repeat scroll 0 0;
-}
-.notice-video .diseno-grafico{
-    background: rgba(0, 0, 0, 0) url("../img/notice/disenoGrafico.png") repeat scroll 0 0;
-}
+
 .notice-video{
+    background: rgba(0, 0, 0, 0) url("../img/notice/desarrolloWeb.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -1246,8 +1238,33 @@ textarea {
     height: 382px;
     width: 100%;
 }
-
-
+.notice-video-2{
+    background: rgba(0, 0, 0, 0) url("../img/notice/disenoGrafico.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    height: 382px;
+    width: 100%;
+}
+.notice-video-3{
+    background: rgba(0, 0, 0, 0) url("../img/notice/edicionVideo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    height: 382px;
+    width: 100%;
+}
+.notice-video-4{
+    background: rgba(0, 0, 0, 0) url("../img/notice/ofimaticaEmpresarial.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    height: 382px;
+    width: 100%;
+}
 .video-icon {
     left: 50%;
     position: absolute;
@@ -1264,6 +1281,33 @@ textarea {
   top: 0;
   width: 100%;
 }
+.notice-video-2::after {
+    background: rgba(44, 43, 94, 0.90);
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  .notice-video-3::after {
+    background: rgba(44, 43, 94, 0.90);
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  .notice-video-4::after {
+    background: rgba(44, 43, 94, 0.90);
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
 .notice-area.two .notice-left {
     padding: 33px 58px 31px;
     height: 380px;
@@ -1416,7 +1460,7 @@ textarea {
 .course-img a:hover::after, .course-img:hover .course-hover{opacity: 1}
 .courses-area.two{
     position: relative;
-    background: url(../img/course/course-bg.jpg);
+    background: url(../img/course/course-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -2873,3 +2917,14 @@ textarea {
     border: 1px solid #EC1C23;
     color: #fff;
 }
+.mapa{
+    margin-top: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    margin: 10px auto;
+}
+

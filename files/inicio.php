@@ -87,10 +87,10 @@
                             </div>
                             <div class="course-content">
                                 <h3><a href="#">CAPILLA</a></h3>
-                                <p>Desarrollo de Paginas Web<br>
+                                <!-- <p>Desarrollo de Paginas Web<br>
                                 Instalación y configuración de Redes<br>
                                 Reparación de PC y Laptos<br>
-                                Venta de Programas y Videotutoriales</p>
+                                Venta de Programas y Videotutoriales</p> -->
                                 <a class="default-btn" href="#">Leer más</a>
                             </div>   
                         </div>
@@ -106,11 +106,11 @@
                             </div>
                             <div class="course-content">
                                 <h3><a href="course-details.html">AUDITORIO</a></h3>
-                                <p>Confección de camisas y polos<br>
+                                <!-- <p>Confección de camisas y polos<br>
                                 Confección de vestidos, blusas, faldas y pantalones<br>
                                 Confección de polos y truzas deportivos<br>
                                 Confección de prendas domésticas, set de baño, cortinas, set de cocina, mandiles y otros.
-                                </p>
+                                </p> -->
                                 <a class="default-btn" href="#">Leer más</a>
                             </div>   
                         </div>
@@ -126,11 +126,11 @@
                             </div>
                             <div class="course-content">
                                 <h3><a href="#">CANCHA DEPORTIVA</a></h3>
-                                <p>
+                                <!-- <p>
                                    Deliciosas tortas y queques con sabores a chocolate, vainilla, naranja, con decoración.<br>
                                    Bocaditos de diferentes variedades, dulces y salados para engreir el paladar. <br>
                                    Deliciosos y suculentos potajes orientales
-                                </p>
+                                </p> -->
                                 <a class="default-btn" href="#">Leer más</a>
                             </div>   
                         </div>
@@ -151,10 +151,10 @@
                             </div>
                             <div class="course-content">
                                 <h3><a href="#">SALÓN DE BELLEZA</a></h3>
-                                <p>Desarrollo de Paginas Web<br>
+                                <!-- <p>Desarrollo de Paginas Web<br>
                                 Instalación y configuración de Redes<br>
                                 Reparación de PC y Laptos<br>
-                                Venta de Programas y Videotutoriales</p>
+                                Venta de Programas y Videotutoriales</p> -->
                                 <a class="default-btn" href="#">Leer más</a>
                             </div>   
                         </div>
@@ -170,11 +170,11 @@
                             </div>
                             <div class="course-content">
                                 <h3><a href="course-details.html">BARBERIA</a></h3>
-                                <p>Confección de camisas y polos<br>
+                                <!-- <p>Confección de camisas y polos<br>
                                 Confección de vestidos, blusas, faldas y pantalones<br>
                                 Confección de polos y truzas deportivos<br>
                                 Confección de prendas domésticas, set de baño, cortinas, set de cocina, mandiles y otros.
-                                </p>
+                                </p> -->
                                 <a class="default-btn" href="#">Leer más</a>
                             </div>   
                         </div>
@@ -190,11 +190,11 @@
                             </div>
                             <div class="course-content">
                                 <h3><a href="#">CATERING</a></h3>
-                                <p>
+                                <!-- <p>
                                    Deliciosas tortas y queques con sabores a chocolate, vainilla, naranja, con decoración.<br>
                                    Bocaditos de diferentes variedades, dulces y salados para engreir el paladar. <br>
                                    Deliciosos y suculentos potajes orientales
-                                </p>
+                                </p> -->
                                 <a class="default-btn" href="#">Leer más</a>
                             </div>   
                         </div>
@@ -215,27 +215,27 @@
                         <div class="notice-right-wrapper mb-25 pb-25">
                             <h3>DESARROLLO WEB</h3>
                             <div class="notice-video">
-                                <div class="desarrollo-web">
+                             
                                     <div class="video-icon video-hover">
                                         <a class="video-popup" href="img/videos/desarrolloWeb.mp4">
                                             <i class="zmdi zmdi-play"></i>
                                         </a>
                                     </div>
-                                </div>
+                             
                             </div>
                         </div> 
                     </div>   
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="notice-right-wrapper mb-25 pb-25">
                             <h3>DISEÑO GRÁFICO</h3>
-                            <div class="notice-video">
-                                <div class="diseno-grafico">
+                            <div class="notice-video-2">
+                                
                                     <div class="video-icon video-hover">
                                         <a class="video-popup" href="img/videos/disenoGrafico.mp4">
                                             <i class="zmdi zmdi-play"></i>
                                         </a>
                                     </div>
-                                </div>
+                                
                             </div>
                         </div> 
                     </div>             
@@ -244,28 +244,28 @@
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="notice-right-wrapper mb-25 pb-25">
                             <h3>EDICIÓN DE VIDEOS</h3>
-                            <div class="notice-video">
-                                <div class="edicion-video">
+                            <div class="notice-video-3">
+                                
                                     <div class="video-icon video-hover">
                                         <a class="video-popup" href="img/videos/edicionVideos.mp4">
                                             <i class="zmdi zmdi-play"></i>
                                         </a>
                                     </div>
-                                </div>
+                               
                             </div>
                         </div> 
                     </div>   
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="notice-right-wrapper mb-25 pb-25">
                             <h3>OFIMÁTICA EMPRESARIAL</h3>
-                            <div class="notice-video">
-                                <div class="ofimatica">
+                            <div class="notice-video-4">
+                                
                                     <div class="video-icon video-hover">
                                         <a class="video-popup" href="img/videos/ofimaticaEmpresarial.mp4">
                                             <i class="zmdi zmdi-play"></i>
                                         </a>
                                     </div>
-                                </div>
+                                
                             </div>
                         </div> 
                     </div>             
@@ -275,178 +275,178 @@
         <!-- Notice End -->
         <!-- Event Area Start -->
         <div class="event-area two text-center pt-100 pb-145">
-            <div class="container">
-                <div class="row">
-                     <div class="col-xs-12">
-                        <div class="section-title">
-                            <img src="img/icon/section.png" alt="section-title">
-                            <h2>NUESTROS SERVICIOS</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-                        <div class="single-event mb-35">
-                            <div class="event-img">
-                                <a href="#"><img src="img/event/computacion.jpg" alt="event"></a>
-                            </div>
-                            <div class="event-content text-left">
-                                <h3>COMPUTACION</h3>
-                                <h4><a href="#">EQUIPOS MODERNOS</a></h4>
-                                <ul>
-                                    <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
-                                    <li><i class="fa fa-map-marker"></i>Huánuco</li>
-                                </ul>
-                                <div class="event-content-right">
-                                    <a class="default-btn" href="#">unirte ahora</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="single-event hidden-sm hidden-xs">
-                            <div class="event-img">
-                                <a href="#"><img src="img/event/cocina.jpg" alt="event"></a>
-                            </div>
-                            <div class="event-content text-left">
-                                <h3>COCINA</h3>
-                                <h4><a href="#">ESPACIOS AMPLIOS</a></h4>
-                                <ul>
-                                    <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
-                                    <li><i class="fa fa-map-marker"></i>Huánuco</li>
-                                </ul>
-                                <div class="event-content-right">
-                                    <a class="default-btn" href="#">unirte ahora</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-                        <div class="single-event mb-35">
-                            <div class="event-img">
-                                <a href="#"><img src="img/event/panaderia.jpg" alt="event"></a>
-                            </div>
-                            <div class="event-content text-left">
-                                <h3>PANADERIA/PASTELERIA</h3>
-                                <h4><a href="event-details.html">Espacios amplios</a></h4>
-                                <ul>
-                                    <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
-                                    <li><i class="fa fa-map-marker"></i>Huánuco</li>
-                                </ul>
-                                <div class="event-content-right">
-                                    <a class="default-btn" href="#">unirte ahora</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="single-event hidden-sm hidden-xs">
-                            <div class="event-img">
-                                <a href="#"><img src="img/event/tejido.jpg" alt="event"></a>
-                            </div>
-                            <div class="event-content text-left">
-                                <h3>TEJIDO A MAQUINAS</h3>
-                                <h4><a href="event-details.html">MAQUINAS DE CALIDAD</a></h4>
-                                <ul>
-                                    <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
-                                    <li><i class="fa fa-map-marker"></i>Huánuco</li>
-                                </ul>
-                                <div class="event-content-right">
-                                    <a class="default-btn" href="#">unirte ahora</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div> 
-
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-                        <div class="single-event mb-35">
-                            <div class="event-img">
-                                <a href="#"><img src="img/event/confeccion.jpg" alt="event"></a>
-                            </div>
-                            <div class="event-content text-left">
-                                <h3>CONFECCION TEXTIL</h3>
-                                <h4><a href="#">CLASES MODERNAS</a></h4>
-                                <ul>
-                                    <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
-                                    <li><i class="fa fa-map-marker"></i>Huánuco</li>
-                                </ul>
-                                <div class="event-content-right">
-                                    <a class="default-btn" href="#">unirte ahora</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="single-event hidden-sm hidden-xs">
-                            <div class="event-img">
-                                <a href="#"><img src="img/event/secretariado.jpg" alt="event"></a>
-                            </div>
-                            <div class="event-content text-left">
-                                <h3>SECRETARIADO EJECUTIVO COMPUTARIZADO</h3>
-                                <h4><a href="#">Espacios equipados</a></h4>
-                                <ul>
-                                    <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
-                                    <li><i class="fa fa-map-marker"></i>Huánuco</li>
-                                </ul>
-                                <div class="event-content-right">
-                                    <a class="default-btn" href="#">unirte ahora</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                      
-                      <div class="col-md-6 col-sm-12 col-xs-12">
-                        <div class="single-event mb-35">
-                            <div class="event-img">
-                                <a href="#"><img src="img/event/contabilidad.jpg" alt="event"></a>
-                            </div>
-                            <div class="event-content text-left">
-                                <h3>CONTABILIDAD</h3>
-                                <h4><a href="event-details.html">Espacios amplios</a></h4>
-                                <ul>
-                                    <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
-                                    <li><i class="fa fa-map-marker"></i>Huánuco</li>
-                                </ul>
-                                <div class="event-content-right">
-                                    <a class="default-btn" href="#">unirte ahora</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="single-event hidden-sm hidden-xs">
-                            <div class="event-img">
-                                <a href="#"><img src="img/event/peluqueria.jpg" alt="event"></a>
-                            </div>
-                            <div class="event-content text-left">
-                                <h3>PELUQUERIA</h3>
-                                <h4><a href="event-details.html">EQUIPOS MODERNOS</a></h4>
-                                <ul>
-                                    <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
-                                    <li><i class="fa fa-map-marker"></i>Huánuco</li>
-                                </ul>
-                                <div class="event-content-right">
-                                    <a class="default-btn" href="#">unirte ahora</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div> 
-
-                     <div class="col-md-6 col-sm-12 col-xs-12">
-
-                        <div class="single-event hidden-sm hidden-xs">
-                            <div class="event-img">
-                                <a href="#"><img src="img/event/carpinteria.jpg" alt="event"></a>
-                            </div>
-                            <div class="event-content text-left">
-                                <h3>CARPINTERIA</h3>
-                                <h4><a href="#">Espacios equipados</a></h4>
-                                <ul>
-                                    <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
-                                    <li><i class="fa fa-map-marker"></i>Huánuco</li>
-                                </ul>
-                                <div class="event-content-right">
-                                    <a class="default-btn" href="#">unirte ahora</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="section-title">
+                    <img src="img/icon/section.png" alt="section-title">
+                    <h2>NUESTROS SERVICIOS</h2>
                 </div>
             </div>
         </div>
+  
+        <div class="row justify-content-md-center">
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="event-img">
+                    <a href="#"><img src="img/event/computacion.jpg" alt="event"></a>
+                </div>
+                <div class="event-content text-left">
+                    <h3>COMPUTACION</h3>
+                    <h4><a href="#">EQUIPOS MODERNOS</a></h4>
+                    <ul>
+                        <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
+                        <li><i class="fa fa-map-marker"></i>Huánuco</li>
+                    </ul>
+                    <div class="event-content-right">
+                        <a class="default-btn" href="#">ver más</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="event-img">
+                    <a href="#"><img src="img/event/panaderia.jpg" alt="event"></a>
+                </div>
+                <div class="event-content text-left">
+                    <h3>PANADERIA/PASTELERIA</h3>
+                    <h4><a href="event-details.html">Espacios amplios</a></h4>
+                    <ul>
+                        <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
+                        <li><i class="fa fa-map-marker"></i>Huánuco</li>
+                    </ul>
+                    <div class="event-content-right">
+                        <a class="default-btn" href="#">ver más</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="event-img">
+                    <a href="#"><img src="img/event/cocina.jpg" alt="event"></a>
+                </div>
+                <div class="event-content text-left">
+                    <h3>COCINA</h3>
+                    <h4><a href="#">ESPACIOS AMPLIOS</a></h4>
+                    <ul>
+                        <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
+                        <li><i class="fa fa-map-marker"></i>Huánuco</li>
+                    </ul>
+                    <div class="event-content-right">
+                        <a class="default-btn" href="#">ver más</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="event-img">
+                    <a href="#"><img src="img/event/tejido.jpg" alt="event"></a>
+                </div>
+                <div class="event-content text-left">
+                    <h3>TEJIDO A MAQUINAS</h3>
+                    <h4><a href="event-details.html">MAQUINAS DE CALIDAD</a></h4>
+                    <ul>
+                        <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
+                        <li><i class="fa fa-map-marker"></i>Huánuco</li>
+                    </ul>
+                    <div class="event-content-right">
+                        <a class="default-btn" href="#">ver más</a>
+                    </div>
+                </div>
+            </div>
+
+        
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="event-img">
+                    <a href="#"><img src="img/event/confeccion.jpg" alt="event"></a>
+                </div>
+                <div class="event-content text-left">
+                    <h3>CONFECCION TEXTIL</h3>
+                    <h4><a href="#">CLASES MODERNAS</a></h4>
+                    <ul>
+                        <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
+                        <li><i class="fa fa-map-marker"></i>Huánuco</li>
+                    </ul>
+                    <div class="event-content-right">
+                        <a class="default-btn" href="#">ver más</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="event-img">
+                    <a href="#"><img src="img/event/secretariado.jpg" alt="event"></a>
+                </div>
+                <div class="event-content text-left">
+                    <h3>SECRETARIADO EJECUTIVO COMPUTARIZADO</h3>
+                    <h4><a href="#">Espacios equipados</a></h4>
+                    <ul>
+                        <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
+                        <li><i class="fa fa-map-marker"></i>Huánuco</li>
+                    </ul>
+                    <div class="event-content-right">
+                        <a class="default-btn" href="#">ver más</a>
+                    </div>
+                </div>
+            </div>
+       
+
+  
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="event-img">
+                    <a href="#"><img src="img/event/contabilidad.jpg" alt="event"></a>
+                </div>
+                <div class="event-content text-left">
+                    <h3>CONTABILIDAD</h3>
+                    <h4><a href="event-details.html">Espacios amplios</a></h4>
+                    <ul>
+                        <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
+                        <li><i class="fa fa-map-marker"></i>Huánuco</li>
+                    </ul>
+                    <div class="event-content-right">
+                        <a class="default-btn" href="#">ver más</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="event-img">
+                    <a href="#"><img src="img/event/peluqueria.jpg" alt="event"></a>
+                </div>
+                <div class="event-content text-left">
+                    <h3>PELUQUERIA</h3>
+                    <h4><a href="event-details.html">EQUIPOS MODERNOS</a></h4>
+                    <ul>
+                        <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
+                        <li><i class="fa fa-map-marker"></i>Huánuco</li>
+                    </ul>
+                    <div class="event-content-right">
+                        <a class="default-btn" href="#">ver más</a>
+                    </div>
+                </div>
+            </div>
+        
+
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="event-img">
+                    <a href="#"><img src="img/event/carpinteria.jpg" alt="event"></a>
+                </div>
+                <div class="event-content text-left">
+                    <h3>CARPINTERIA</h3>
+                    <h4><a href="#">Espacios equipados</a></h4>
+                    <ul>
+                        <li><i class="fa fa-clock-o"></i>Horarios disponibles</li>
+                        <li><i class="fa fa-map-marker"></i>Huánuco</li>
+                    </ul>
+                    <div class="event-content-right">
+                        <a class="default-btn" href="#">ver más</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+    </div>
+</div>
         <!-- Event Area End -->
         <!-- Testimonial Area Start -->
        <!-- <div class="testimonial-area pt-110 pb-105 text-center">

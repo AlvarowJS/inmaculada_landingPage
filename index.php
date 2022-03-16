@@ -41,6 +41,8 @@ include_once ('info/head.php');
                   include_once ('files/vision.php');
                 } elseif ($view=='mision') {
                   include_once ('files/mision.php');
+                } elseif ($view=='servicios') {
+                  include_once ('files/servicios.php');
                 } elseif ($view=='contactos') {
                   include_once ('files/contactos.php');
                 }

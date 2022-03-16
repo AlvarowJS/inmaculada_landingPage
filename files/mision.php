@@ -30,7 +30,7 @@
                     </div>
                     <div class="col-md-6 col-sm-6">
                         <div class="about-img">
-                            <img src="img/about/carpinteri.jpg" alt="about">
+                            <img src="img/about/mision.jpg" alt="about">
                         </div>
                     </div>
                 </div>

@@ -34,19 +34,19 @@
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-6">
-                        <form class="form-horizontal" method="post">
+                        <form action="files/enviar.php" class="form-horizontal" method="post">
                     <fieldset>
                         
                         <div class="form-group">
                             <span class="col-md-1 col-md-offset-2 text-center"><i class="fa fa-user bigicon"></i></span>
                             <div class="col-md-8">
-                                <input id="fname" name="name" type="text" placeholder="Nombres" class="form-control">
+                                <input id="name" name="name" type="text" placeholder="Nombres" class="form-control">
                             </div>
                         </div>
                         <div class="form-group">
                             <span class="col-md-1 col-md-offset-2 text-center"><i class="fa fa-user bigicon"></i></span>
                             <div class="col-md-8">
-                                <input id="lname" name="name" type="text" placeholder="Apellidos" class="form-control">
+                                <input id="lastname" name="lastname" type="text" placeholder="Apellidos" class="form-control">
                             </div>
                         </div>
 
@@ -80,6 +80,10 @@
                 </form>
                     </div>
                 </div>
+                <div class="mapa">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15720.243178413724!2d-76.241779!3d-9.9288951!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf5ce97a22be52697!2sCETPRO%20%22San%20Luis%20Gonzaga%22!5e0!3m2!1ses-419!2spe!4v1647379941296!5m2!1ses-419!2spe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                </div>
+                
             </div>
         </div>
         <!-- About End -->
