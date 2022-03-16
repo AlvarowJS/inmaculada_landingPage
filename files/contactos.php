@@ -23,7 +23,7 @@
                         <div class="about-content">
                             <h2><span>INFORMACIÓN</span></h2>
                             <p>
-                            <i class="fa fa-"></i> Jr. Ayacucho N° 630 | Huánuco - Perú
+                            <i class="fa fa-"></i> Jr. Gral Prado N°564 | Huánuco - Perú
                             <br>
                             <i class="fa fa-"></i> 961 361 561 - Celular
                             <br>

@@ -36,7 +36,7 @@
                         <div class="col-md-3 col-sm-6 col-xs-12">
                             <div class="single-widget">
                                 <h3>Encuentranos</h3>
-                                <p>Jr. Ayacucho N° 630 - <br>Huánuco</p>
+                                <p>Jr. Gral Prado N°564 - <br>Huánuco</p>
                                 <p>+51 961 361 561<br>
                                 <p>cetprosanluisgonzaga@gmail.com</p>
                             </div>
