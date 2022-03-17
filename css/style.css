@@ -1144,7 +1144,10 @@ textarea {
 .slider-area:hover .owl-nav div {left: 0;}
 .slider-area:hover .owl-nav .owl-next {left: auto;  right: 0;}
 .owl-nav div:hover{ color: #fff}
-.single-slide{background-position: top center; background-size: cover}
+.single-slide{
+    background-position: top center;
+    background-size: cover
+}
 .animated.infinite {
     animation-iteration-count: infinite;
 }
@@ -1152,9 +1155,9 @@ textarea {
     animation-name: fadeInDown;
 }
 .slider-area{
-    height: 100vh;
+    /* height: 100vh; */
 }
-.slider-area div{height: 100%}
+.slider-area div{height: 590px}
 .fix{overflow: hidden}
 .slider-area .owl-nav div{
   height: auto;

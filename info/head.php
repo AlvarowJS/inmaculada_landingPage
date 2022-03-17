@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="css/animate.css">
         <link rel="stylesheet" href="css/meanmenu.css">
         <link rel="stylesheet" href="css/magnific-popup.css">
-        <link rel="stylesheet" href="css/owl.carousel.min.css">
+        <!-- <link rel="stylesheet" href="css/owl.carousel.min.css"> -->
         <link rel="stylesheet" href="css/font-awesome.min.css">
         <link rel="stylesheet" href="css/et-line-icon.css">
         <link rel="stylesheet" href="css/reset.css">

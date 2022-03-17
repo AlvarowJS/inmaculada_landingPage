@@ -3,16 +3,17 @@
 		    <div class="header-top">
 		        <div class="container">
 		            <div class="row">
-		                <div class="col-md-8 col-sm-8 col-xs-12">
+                        <div class="col-md-3">
+								<a href="index.php"><img src="img/logo/logo5.png" alt="eduhome" /></a>
+						</div>
+                            
+		                <div class="col-md-6 col-sm-8 col-xs-12">
+                            
 		                    <div class="header-top-left">
 		                        <p>HAGA SUS CONSULTAS  +51 961 361 561</p>
 		                    </div>
 		                </div>
-		                <div class="col-md-4 col-sm-4 col-xs-12">
-		                    <div class="header-top-right text-right fondo">
-		                        
-		                    </div>
-		                </div>
+		             
 		            </div>
 		        </div>
 		    </div>
@@ -20,9 +21,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-3 col-sm-3 col-xs-6">
-							<div class="logo">
-								<a href="index.php"><img src="img/logo/logo5.png" alt="eduhome" /></a>
-							</div>
+							
 						</div>
 						<div class="col-md-9 col-sm-9 col-xs-6">
                             <div class="content-wrapper text-right">
@@ -31,14 +30,26 @@
                                     <nav>
                                         <ul>
                                             <li><a href="?view=inicio">Inicio</a></li>
-                                            <li><a href="#">Nosotros</a>
+                                            <li><a href="?view=historia">Nosotros</a>
                                                <ul>
                                                    <li><a href="?view=historia">Historia</a></li>
                                                    <li><a href="?view=vision">Visión</a></li>
                                                    <li><a href="?view=mision">Misión</a></li>
                                                </ul>
                                             </li>
-                                            <li><a href="?view=servicios">Servicios</a></li>
+                                            <li><a href="?view=servicios">Servicios</a>
+                                            <ul>                     
+                                                   <li><a href="?view=computacion">Computación</a></li>                             
+                                                   <li><a href="?view=cocina">Cocina</a></li>
+                                                   <li><a href="?view=panaderia">Panaderia/Pasteleria</a></li>
+                                                   <li><a href="?view=tejido">Tejido de Maquinas</a></li>
+                                                   <li><a href="?view=confeccion">Confección textil</a></li>
+                                                   <li><a href="?view=secretariado">Secretariado Ejecutivo Computarizado</a></li>
+                                                   <li><a href="?view=contabilidad">Contabilidad</a></li>
+                                                   <li><a href="?view=peluqueria">Peluqueria</a></li>
+                                                   <li><a href="?view=carpinteria">Carpinteria</a></li>
+                                               </ul>
+                                            </li>
                                             <!--
                                             <li><a href="#">Eventos</a>
                                                 <ul>

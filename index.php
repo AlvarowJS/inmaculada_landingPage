@@ -43,6 +43,24 @@ include_once ('info/head.php');
                   include_once ('files/mision.php');
                 } elseif ($view=='servicios') {
                   include_once ('files/servicios.php');
+                } elseif ($view=='carpinteria') {
+                  include_once ('files/servicios/carpinteria.php');
+                } elseif ($view=='cocina') {
+                  include_once ('files/servicios/cocina.php');
+                } elseif ($view=='computacion') {
+                  include_once ('files/servicios/computacion.php');
+                } elseif ($view=='confeccion') {
+                  include_once ('files/servicios/confeccion.php');
+                } elseif ($view=='contabilidad') {
+                  include_once ('files/servicios/contabilidad.php');
+                } elseif ($view=='panaderia') {
+                  include_once ('files/servicios/panaderia.php');
+                } elseif ($view=='peluqueria') {
+                  include_once ('files/servicios/peluqueria.php');
+                } elseif ($view=='secretariado') {
+                  include_once ('files/servicios/secretariado.php');
+                } elseif ($view=='tejido') {
+                  include_once ('files/servicios/tejido.php');
                 } elseif ($view=='contactos') {
                   include_once ('files/contactos.php');
                 }
