@@ -3,16 +3,16 @@
 		    <div class="header-top">
 		        <div class="container">
 		            <div class="row">
-                        <div class="col-md-3">
-								<a href="index.php"><img src="img/logo/logo5.png" alt="eduhome" /></a>
-						</div>
-                            
-		                <div class="col-md-6 col-sm-8 col-xs-12">
-                            
+                    <div class="col-md-8 col-sm-8 col-xs-12">
 		                    <div class="header-top-left">
-		                        <p>HAGA SUS CONSULTAS  +51 961 361 561</p>
+		                        
 		                    </div>
 		                </div>
+		                <div class="col-md-4 col-sm-4 col-xs-12">
+		                    <div class="header-top-right text-right fondo">
+		                        
+		                    </div>
+		                </div>                                      
 		             
 		            </div>
 		        </div>
@@ -75,11 +75,7 @@
                                 </div>
                                 <!--Search Form Start-->
                                 <div class="search-btn">
-                                    <ul data-toggle="dropdown" class="header-search search-toggle">
-                                        <li class="search-menu">
-                                            <i class="fa fa-search"></i>
-                                        </li>
-                                    </ul>
+                                        
                                     <div class="search">
                                         <div class="search-form">
                                             <form id="search-form" action="#">

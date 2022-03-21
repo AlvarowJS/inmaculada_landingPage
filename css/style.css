@@ -72,14 +72,12 @@ a:active, a:hover {
 }
 a,
 button,
-
 input {
     outline: medium none;
     color: #606060;
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s
 }
-
 button{border: 0}
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{color: inherit}
 label {
@@ -925,6 +923,7 @@ textarea {
 }
 .header-top{
     background: #EC1C23;
+    height: 80px;
     position: relative;
 }
 .header-top:after{
@@ -934,17 +933,17 @@ textarea {
     top: 0;
     content: "";
     height: 100%;
-    width: 36%;
+    width: 37%;
 }
 .header-top::before {
     background: #fff none repeat scroll 0 0;
     content: "";
-    height: 105px;
+    height: 115px;
     position: absolute;
-    right: 37.8%;
-    top: -18px;
-    transform: rotate(-45deg);
-    width: 8px;
+    right: 38.8%;
+    top: -17px;
+    transform: rotate(-41deg);
+    width: 13px;
     z-index: 1;
 }
 .header-top-right{position: relative}
@@ -952,10 +951,10 @@ textarea {
   background: #2c2b5e none repeat scroll 0 0;
   content: "";
   height: 100px;
-  left: -16%;
+  left: -20%;
   position: absolute;
-  top: -38px;
-  transform: rotate(-45deg);
+  top: -39px;
+  transform: rotate(-41deg);
   width: 60px;
 }
 .header-top-right ul li{
@@ -1144,10 +1143,7 @@ textarea {
 .slider-area:hover .owl-nav div {left: 0;}
 .slider-area:hover .owl-nav .owl-next {left: auto;  right: 0;}
 .owl-nav div:hover{ color: #fff}
-.single-slide{
-    background-position: top center;
-    background-size: cover
-}
+.single-slide{background-position: top center; background-size: cover}
 .animated.infinite {
     animation-iteration-count: infinite;
 }
@@ -1155,9 +1151,9 @@ textarea {
     animation-name: fadeInDown;
 }
 .slider-area{
-    /* height: 100vh; */
+    height: 100vh;
 }
-.slider-area div{height: 590px}
+.slider-area div{height: 100%}
 .fix{overflow: hidden}
 .slider-area .owl-nav div{
   height: auto;
@@ -1231,9 +1227,19 @@ textarea {
 .video-icon a:hover i{
     color: #EC1C23;
 }
-
+.notice-video .desarrollo-web{
+    background: rgba(0, 0, 0, 0) url("../img/notice/desarrolloWeb.png") repeat scroll 0 0;
+}
+.notice-video .edicion-video{
+    background: rgba(0, 0, 0, 0) url("../img/notice/edicionVideo.png") repeat scroll 0 0;
+}
+.notice-video .ofimatica{
+    background: rgba(0, 0, 0, 0) url("../img/notice/ofimaticaEmpresarial.png") repeat scroll 0 0;
+}
+.notice-video .diseno-grafico{
+    background: rgba(0, 0, 0, 0) url("../img/notice/disenoGrafico.png") repeat scroll 0 0;
+}
 .notice-video{
-    background: rgba(0, 0, 0, 0) url("../img/notice/desarrolloWeb.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -1241,33 +1247,8 @@ textarea {
     height: 382px;
     width: 100%;
 }
-.notice-video-2{
-    background: rgba(0, 0, 0, 0) url("../img/notice/disenoGrafico.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    position: relative;
-    height: 382px;
-    width: 100%;
-}
-.notice-video-3{
-    background: rgba(0, 0, 0, 0) url("../img/notice/edicionVideo.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    position: relative;
-    height: 382px;
-    width: 100%;
-}
-.notice-video-4{
-    background: rgba(0, 0, 0, 0) url("../img/notice/ofimaticaEmpresarial.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    position: relative;
-    height: 382px;
-    width: 100%;
-}
+
+
 .video-icon {
     left: 50%;
     position: absolute;
@@ -1284,33 +1265,6 @@ textarea {
   top: 0;
   width: 100%;
 }
-.notice-video-2::after {
-    background: rgba(44, 43, 94, 0.90);
-    content: "";
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
-  }
-  .notice-video-3::after {
-    background: rgba(44, 43, 94, 0.90);
-    content: "";
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
-  }
-  .notice-video-4::after {
-    background: rgba(44, 43, 94, 0.90);
-    content: "";
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
-  }
 .notice-area.two .notice-left {
     padding: 33px 58px 31px;
     height: 380px;
@@ -1463,7 +1417,7 @@ textarea {
 .course-img a:hover::after, .course-img:hover .course-hover{opacity: 1}
 .courses-area.two{
     position: relative;
-    background: url(../img/course/course-bg.png);
+    background: url(../img/course/course-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -2920,14 +2874,3 @@ textarea {
     border: 1px solid #EC1C23;
     color: #fff;
 }
-.mapa{
-    margin-top: 150px;
-    height: 150px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.row{
-    margin: 10px auto;
-}
-
