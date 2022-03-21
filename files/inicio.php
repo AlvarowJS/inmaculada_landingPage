@@ -8,7 +8,9 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox" style="display: flex;
   justify-content: center;
-  align-items: center;">
+  align-items: center;
+  width: 100%"
+  >
     <div class="item active">
       <img src="img/banner/portada1.jpeg" alt="...">
       <div class="carousel-caption">
