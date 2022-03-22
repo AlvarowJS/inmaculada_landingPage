@@ -948,15 +948,17 @@ textarea {
 }
 .header-top-right{position: relative}
 .header-top-right::after {
-  background: #2c2b5e none repeat scroll 0 0;
+  /* background: #2c2b5e none repeat scroll 0 0; */
   content: "";  
   height: 100px;
-  left: -29%;
- 
+  left: -21%;
   position: absolute;
   top: -39px;
-  transform: rotate(-41deg);
+  /* transform: rotate(-41deg); */
   width: 69px;
+  border-right: 100px solid transparent;
+  border-left: 100px solid transparent;
+  border-top: 120px solid #2c2b5e;
 }
 .header-top-right ul li{
     display: inline-block;
@@ -1228,19 +1230,36 @@ textarea {
 .video-icon a:hover i{
     color: #EC1C23;
 }
-.notice-video .desarrollo-web{
-    background: rgba(0, 0, 0, 0) url("../img/notice/desarrolloWeb.png") repeat scroll 0 0;
-}
-.notice-video .edicion-video{
-    background: rgba(0, 0, 0, 0) url("../img/notice/edicionVideo.png") repeat scroll 0 0;
-}
-.notice-video .ofimatica{
-    background: rgba(0, 0, 0, 0) url("../img/notice/ofimaticaEmpresarial.png") repeat scroll 0 0;
-}
-.notice-video .diseno-grafico{
-    background: rgba(0, 0, 0, 0) url("../img/notice/disenoGrafico.png") repeat scroll 0 0;
-}
+
 .notice-video{
+    background: rgba(0, 0, 0, 0) url("../img/notice/desarrolloWeb.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    height: 382px;
+    width: 100%;
+}
+.notice-video-2{
+    background: rgba(0, 0, 0, 0) url("../img/notice/disenoGrafico.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    height: 382px;
+    width: 100%;
+}
+.notice-video-3{
+    background: rgba(0, 0, 0, 0) url("../img/notice/edicionVideo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    height: 382px;
+    width: 100%;
+}
+.notice-video-4{
+    background: rgba(0, 0, 0, 0) url("../img/notice/ofimaticaEmpresarial.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -1258,14 +1277,41 @@ textarea {
     z-index: 1;
 }
 .notice-video::after {
-  background: rgba(44, 43, 94, 0.90);
-  content: "";
-  height: 100%;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 100%;
-}
+    background: rgba(44, 43, 94, 0.90);
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  .notice-video-2::after {
+      background: rgba(44, 43, 94, 0.90);
+      content: "";
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%;
+    }
+    .notice-video-3::after {
+      background: rgba(44, 43, 94, 0.90);
+      content: "";
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%;
+    }
+    .notice-video-4::after {
+      background: rgba(44, 43, 94, 0.90);
+      content: "";
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%;
+    }
 .notice-area.two .notice-left {
     padding: 33px 58px 31px;
     height: 380px;
@@ -1418,7 +1464,7 @@ textarea {
 .course-img a:hover::after, .course-img:hover .course-hover{opacity: 1}
 .courses-area.two{
     position: relative;
-    background: url(../img/course/course-bg.jpg);
+    background: url(../img/course/course-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;

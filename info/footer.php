@@ -12,9 +12,7 @@
                                 <div class="footer-social">
                                     <ul>
                                         <li><a href="https://www.facebook.com/CetproSanLuisGonzaga"><i class="zmdi zmdi-facebook"></i></a></li>
-                                        <li><a href="#"><i class="zmdi zmdi-pinterest"></i></a></li>
-                                        <li><a href="#"><i class="zmdi zmdi-vimeo"></i></a></li>
-                                        <li><a href="#"><i class="zmdi zmdi-twitter"></i></a></li>
+                                       
                                     </ul>    
                                 </div>
                             </div>

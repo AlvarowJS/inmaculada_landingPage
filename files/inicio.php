@@ -408,7 +408,7 @@
         </div>
 
         <div class="row justify-content-md-center">
-            <div class="col-lg-6 col-md-6 col-sm-12">
+            <div class="col-lg-6 col-md-6 col-sm-12" style="margin-bottom: 10px;">
                 <div class="event-img">
                     <a href="?view=computacion"><img src="img/event/computacion.jpg" alt="event"></a>
                 </div>
@@ -424,7 +424,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12">
+            <div class="col-lg-6 col-md-6 col-sm-12" style="margin-bottom: 10px;">
                 <div class="event-img">
                     <a href="?view=panaderia"><img src="img/event/panaderia.jpg" alt="event"></a>
                 </div>
@@ -443,7 +443,7 @@
         </div>
 
 
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-6 col-md-6 col-sm-12" style="margin-bottom: 10px;">
             <div class="event-img">
                 <a href="?view=cocina"><img src="img/event/cocina.jpg" alt="event"></a>
             </div>
@@ -459,7 +459,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-6 col-md-6 col-sm-12" style="margin-bottom: 10px;">
             <div class="event-img">
                 <a href="?view=tejido"><img src="img/event/tejido.jpg" alt="event"></a>
             </div>
@@ -477,7 +477,7 @@
         </div>
 
 
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-6 col-md-6 col-sm-12 " style="margin-bottom: 10px;">
             <div class="event-img">
                 <a href="?view=confeccion"><img src="img/event/confeccion.jpg" alt="event"></a>
             </div>
@@ -493,7 +493,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-6 col-md-6 col-sm-12" style="margin-bottom: 10px;">
             <div class="event-img">
                 <a href="?view=secretariado"><img src="img/event/secretariado.jpg" alt="event"></a>
             </div>
@@ -512,7 +512,7 @@
 
 
 
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-6 col-md-6 col-sm-12" style="margin-bottom: 10px;">
             <div class="event-img">
                 <a href="?view=contabilidad"><img src="img/event/contabilidad.jpg" alt="event"></a>
             </div>
@@ -528,7 +528,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-6 col-md-6 col-sm-12" style="margin-bottom: 10px;">
             <div class="event-img">
                 <a href="?view=peluqueria"><img src="img/event/peluqueria.jpg" alt="event"></a>
             </div>
@@ -546,7 +546,7 @@
         </div>
 
 
-        <div class="col-lg-12 col-md-12 col-sm-12">
+        <div class="col-lg-12 col-md-12 col-sm-12" style="margin-bottom: 10px;">
             <div class="event-img">
                 <a href="?view=carpinteria"><img src="img/event/carpinteria.jpg" alt="event"></a>
             </div>
