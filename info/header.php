@@ -69,7 +69,7 @@
                                                 </ul>
                                             </li>
 -->
-                                            <li><a href="?view=contactos">Contactos</a></li>
+                                            <li><a href="?view=contactos">Contacto</a></li>
                                         </ul>
                                     </nav>
                                 </div>

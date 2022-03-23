@@ -327,7 +327,7 @@
                     <div class="notice-video" style="margin-bottom: 10px;">
 
                         <div class="video-icon video-hover">
-                            <a class="video-popup" href="img/videos/desarrolloWeb.mp4">
+                            <a class="video-popup" href="https://www.youtube.com/watch?v=3XiyJCCSMR4">
                                 <i class="zmdi zmdi-play"></i>
                             </a>
                         </div>
@@ -345,7 +345,7 @@
                     <div class="notice-video-2" style="margin-bottom: 10px;">
 
                         <div class="video-icon video-hover">
-                            <a class="video-popup" href="img/videos/disenoGrafico.mp4">
+                            <a class="video-popup" href="https://www.youtube.com/watch?v=OaGk8hRVyuA">
                                 <i class="zmdi zmdi-play"></i>
                             </a>
                         </div>
@@ -363,7 +363,7 @@
                     <div class="notice-video-3" style="margin-bottom: 10px;">
 
                         <div class="video-icon video-hover">
-                            <a class="video-popup" href="img/videos/edicionVideos.mp4">
+                            <a class="video-popup" href="https://www.youtube.com/watch?v=ZEQuJT3EkuU">
                                 <i class="zmdi zmdi-play"></i>
                             </a>
                         </div>
@@ -379,7 +379,7 @@
                     <div class="notice-video-4" style="margin-bottom: 10px;">
 
                         <div class="video-icon video-hover">
-                            <a class="video-popup" href="img/videos/ofimaticaEmpresarial.mp4">
+                            <a class="video-popup" href="https://www.youtube.com/watch?v=BNHuh15faIw">
                                 <i class="zmdi zmdi-play"></i>
                             </a>
                         </div>
@@ -407,7 +407,7 @@
             </div>
         </div>
 
-        <div class="row justify-content-md-center">
+     
             <div class="col-lg-6 col-md-6 col-sm-12" style="margin-bottom: 10px;">
                 <div class="event-img">
                     <a href="?view=computacion"><img src="img/event/computacion.jpg" alt="event"></a>
@@ -440,8 +440,7 @@
                     </div>
                 </div>
             </div>
-        </div>
-
+      
 
         <div class="col-lg-6 col-md-6 col-sm-12" style="margin-bottom: 10px;">
             <div class="event-img">

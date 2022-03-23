@@ -935,7 +935,7 @@ textarea {
     height: 100%;
     width: 37%;
 }
-.header-top::before {
+/* .header-top::before {
     background: #fff none repeat scroll 0 0;
     content: "";
     height: 115px;
@@ -945,21 +945,21 @@ textarea {
     transform: rotate(-41deg);
     width: 13px;
     z-index: 1;
-}
+} */
 .header-top-right{position: relative}
-.header-top-right::after {
-  /* background: #2c2b5e none repeat scroll 0 0; */
+/* .header-top-right::after {
+  /* background: #2c2b5e none repeat scroll 0 0; *
   content: "";  
   height: 100px;
   left: -21%;
   position: absolute;
   top: -39px;
-  /* transform: rotate(-41deg); */
+  /* transform: rotate(-41deg); *
   width: 69px;
   border-right: 100px solid transparent;
   border-left: 100px solid transparent;
   border-top: 120px solid #2c2b5e;
-}
+} */
 .header-top-right ul li{
     display: inline-block;
     margin-right: 38px;
